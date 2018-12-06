@@ -1,0 +1,40 @@
+{
+  "s": 1,
+  "m": "success",
+  "d": {
+    "count": 1,   //评论的类型
+    "targetId": "5bcd7c3b092dcb7eb99bf417",  //目标id
+    "targetType": "",   //目标类型
+    "id": "",
+    "comments": [
+      {
+        "id": "5bcd7f77518825698ded4e7a",       //评论id
+        "targetId": "5bcd7c3b092dcb7eb99bf417",  //目标id
+        "content": "mark",                         //内容
+        "userId": "598bfcda6fb9a03c5f0c7f5b",    //用户id
+        "respUser": "",                            //回答用户   和objectid相关联
+        "firstComment": "",                        // 第一评论    与评论id关联
+        "respComment": "",                         // 回答评论    与评论id关联
+        "userInfo": {
+          "objectId": "598bfcda6fb9a03c5f0c7f5b",
+          "username": "LBinin",
+          "avatarLarge": "http://wx.qlogo.cn/mmopen/PiajxSqBRaEJ62EnWfmLVNk6NFvsdria3qKZjSxXZdKQhm3toonTfQWgLfaPu7QsKovqib8APtXOZhtMSntPjfeAQ/0",
+          "selfDescription": "",     //个人描述
+          "jobTitle": "",             //个性签名
+          "company": "",               //公司
+          "viewedEntriesCount": 134,   //浏览数
+          "collectedEntriesCount": 6,  //收藏数
+          "currentUserFollowed": false
+        },
+        "respUserInfo": null,
+        "likesCount": 0,
+        "picList": [],
+        "createdAt": "2018-10-22T07:42:47.047Z",
+        "updatedAt": "2018-10-22T07:42:47.047Z",
+        "replyCount": 0,
+        "topComment": null,
+        "isLiked": false
+      }
+    ]
+  }
+}
